@@ -1,7 +1,8 @@
-### Este é o repositório da página principal, onde expomos nossos alinhamentos e disponibilizamos uma prévia do projeto. 
-#### Para acessá-lo, clique no link abaixo:
+### Este é o repositório da página principal, onde expomos nossos alinhamentos e disponibilizamos uma prévia do aplicativo. 
 
+![Layout](https://i.ibb.co/89FBXhG/Print.png)
 
+#### Para acessá-lo, clique no link abaixo:  
 **[Acessar página do CooperaFavela](https://gablemos.github.io/coopera-favela-page/)**
 
 ### Status
