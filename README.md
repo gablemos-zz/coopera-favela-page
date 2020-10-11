@@ -4,9 +4,8 @@
 
 ## Preview
 
-[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://startbootstrap.github.io/startbootstrap-new-age/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-new-age/)**
+**[View Live Preview](https://gablemos.github.io/coopera-favela-page/)**
 
 ## Status
 
